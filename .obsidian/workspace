@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "ca1c06c03a22b2df",
+    "type": "split",
+    "children": [
+      {
+        "id": "72e167e89e6326d2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Aulas/Aula 8 - Utilizando Módulos.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39fdd06961aed62d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c72804711d8f1685",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2b49787ce64a024",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b8af47ad4a70035f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 494
+  },
+  "right": {
+    "id": "c16633db5a1cec10",
+    "type": "split",
+    "children": [
+      {
+        "id": "c82355d993bb34f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "020167d42215f6bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aulas/Aula 8 - Utilizando Módulos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "72e167e89e6326d2",
+  "lastOpenFiles": [
+    "Aulas/Aula 7 - Operadores Aritméticos.md",
+    "Aulas/Aula 6 - Tipos Primitivos e Saída de Dados.md",
+    "Aulas/Aula 4 - Primeiros comandos em python3.md",
+    "Aulas/Aula 8 - Utilizando Módulos.md",
+    "Script Python/Script Primeiros comandos.md",
+    "Exercicios/Exercicios01.md",
+    "Aula 5 - Instalando o PyCharm e o QPython3.md"
+  ]
+}
